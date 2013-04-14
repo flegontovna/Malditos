@@ -24,6 +24,6 @@ Nullam quis risus eget urna mollis ornare vel eu leo.<br/>
 
 # ASSETS: Images
 
-![]()
+![Image](https://github.com/flegontovna/Malditos/blob/master/beanies.jpg?raw=true)
 
 
