@@ -26,4 +26,6 @@ Nullam quis risus eget urna mollis ornare vel eu leo.<br/>
 
 ![Image](https://github.com/flegontovna/Malditos/blob/master/beanies.jpg?raw=true)
 
+![Image](https://dl.dropbox.com/s/rw10lbjgxft7z2w/22_kid.jpg)
+
 
